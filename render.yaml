@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ranit-rag-backend
+    env: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    disk:
+      name: chromadb
+      mountPath: /app/chroma_store
+      sizeGB: 1

@@ -1,0 +1,30 @@
+Name: Ranit Sen
+10th School: St. Luke's Day School
+Percentage 10th: 85.6%
+12th School: St. Luke's Day School
+Percentage 12th: 88.5%
+Graduation: B.Tech in Computer Science and Engineering, SRM Institute of Science and Technology, Chennai
+Strongest Subjects: Mathematics, Computer Science
+Projects Completed during my employment in Bounteous x Accolite:
+
+=== PROJECT ===
+- AthenaHealth
+    Responsibilies - 
+        • Engineered and implemented a dynamic Drupal content rendering component utilizing Javascript and React featuring interactive UI animations to improve user experience while optimizing performance by refactoring stylus, reducing bundle size by 10%.
+        • Standardized coding practices and QA processes, implemented comprehensive Jest test coverage, streamlining error detection, and reducing production defects by 30%.
+        • Optimized Largest Contentful Paint (LCP) by 15% through strategic image lazy loading, preloading assets, CSS optimization and implementing code splitting to improve page speed and Core Web Vitals performance.
+        • Configured and monitored Jenkins CI/CD pipelines, ensuring reliable build automation, deployed and coordinated release management, and quick hotfix deployments for production environment.
+
+=== PROJECT ===
+- Estimez Estimation Tool (React + Java)
+    Responsibilies - 
+        • Worked on a comprehensive project estimation tool using React, Javascript, Tailwind CSS and Java that allowed users to create, update and delete project estimates for various practices such as Salesforce, Java, and Drupal, with resource planning, budgeting and deal desk analysis, improving the accuracy of project cost estimation by 20%.
+        • Implemented and integrated RESTful APIs and third-party APIs, transitioned the EstimEZ platform to a microservice architecture using the gRPC framework to improve flexibility, streamline communication between multiple servers and clients, and increase platform efficiency by 15%.
+        • Built and deployed RESTful APIs using Python (FastAPI) to connect the frontend with backend validation pipelines, and developed a data validation UI, enabling automated data quality checks.
+
+=== PROJECT ===
+- UOPX Transfer Path Mobile App (React Native + Java)
+    Responsibilies - 
+        • Delivered cross-platform mobile applications for iOS and Android using React Native and Typescript, achieving a 20% increase in development efficiency by building reusable UI components and hooks and implementing a consistent design system throughout the project.
+        • Improved app performance by 15% through advanced code optimization and efficient state management using Redux and RTK Query, while successfully integrating APIs, including responsys for push notifications, to improve user functionality.
+        • Integrated Adobe Analytics into the website, allowing detailed tracking of user behavior, which increased feature engagement by 20% and optimized advertising and customer targeting strategies.      

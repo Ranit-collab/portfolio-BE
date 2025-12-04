@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./chroma_store:/app/chroma_store
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
