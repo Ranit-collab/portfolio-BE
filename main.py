@@ -56,15 +56,11 @@ def text_splitter(documents, chunk_size=1000, chunk_overlap=200):
 
     )
     split_docs =  text_splitter.split_documents(documents)
-    if split_docs:
-        print(f"Split into {len(split_docs)} chunks.")
-        print(f"First chunk: {split_docs[0].page_content[:500]}...")
 
     return split_docs
 
 documents = load_documents()
 chunks = text_splitter(documents)
-print(f"Total chunks created: {len(chunks)}")
 
 # -----------------------------
 # Vector Store
